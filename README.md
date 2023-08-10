@@ -18,6 +18,7 @@
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
 <div align="center"><hr width="250px"/></div>
@@ -141,22 +142,24 @@ If you like this project, your support giving a ⭐ will be highly appreciated.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional)
+<!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **What is TDD**
 
-  - [Answer_1]
+  - the idea behind TDD is simple enough:
+    Write a test.
+    Run the test; it fails.
+    Write code.
+    Run the test; it passes. If it fails go back to step 3.
 
-- **[Question_2]**
 
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
--->
+
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
