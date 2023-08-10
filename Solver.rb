@@ -1,6 +1,6 @@
 class Solver
   def factorial(num)
-    raise ArgumentError, 'Factorial argument must be a non-negative integer' if n.negative?
+    raise ArgumentError, 'Factorial argument must be a non-negative integer' if num.negative?
     return 1 if num.zero?
 
     result = 1

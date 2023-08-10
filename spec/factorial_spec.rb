@@ -1,4 +1,5 @@
 require_relative '../Solver'
+
 RSpec.describe Solver do
   describe '#factorial' do
     it 'returns 1 when given 0' do
