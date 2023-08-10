@@ -154,7 +154,7 @@ If you like this project, your support giving a ⭐ will be highly appreciated.
     Write a test.
     Run the test; it fails.
     Write code.
-    Run the test; it passes. If it fails go back to step 3.
+    Run the test; it passes. If it fails go back to step 3
 
 
 
